@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://deskdeck.rainy-coin-4457.chatgpt.site'),
+  metadataBase: new URL('https://deskdeck.ajigu.com'),
   title: 'DeskDeck — Switch your whole desktop',
   description:
     'Switch complete Desktop Spaces with their files, wallpaper, Finder layout, positions, and custom icons.',
