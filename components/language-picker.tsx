@@ -25,7 +25,7 @@ export function LanguagePicker({
   return (
     <NativeSelect
       aria-label={label}
-      className="hidden sm:block"
+      className="w-[7.25rem]"
       onChange={(event) => router.push(`/${event.target.value}`)}
       size="sm"
       value={locale}
